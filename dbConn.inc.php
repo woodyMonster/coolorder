@@ -1,9 +1,9 @@
 <?php
 // db連線
 	$severname = "localhost";
-	$username = "id3734781_coolorder";
-	$password = "123456";
-	$dbname = "id3734781_coolorder";
+	$username = "";
+	$password = "";
+	$dbname = "";
 
 	
 	$conn = mysqli_connect($severname, $username, $password, $dbname);
